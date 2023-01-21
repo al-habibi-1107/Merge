@@ -1,4 +1,8 @@
 This is first commit
 This is second commit
 This is third commit
+
 This is not a conflicts merge
+
+This is a conflicts merge 2
+
